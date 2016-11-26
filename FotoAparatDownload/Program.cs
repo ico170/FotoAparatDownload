@@ -73,7 +73,7 @@ namespace FotoAparatDownload
         /// summary test
         /// </summary>
         /// <param name="root"></param>
-        /// <param name="searchWord">search Test</param>
+        /// <param name="searchWord"></param>
         /// <returns>bool</returns>
         public bool GetSubFolder(string root, string searchWord)
         {
